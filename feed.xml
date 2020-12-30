@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>そして、次の曲が始まるのです</title>
+    <link>http://caoyu-yiyue.github.io/</link>
+    
+    <image>
+      <url>http://caoyu-yiyue.github.io/icon.png</url>
+      <title>そして、次の曲が始まるのです</title>
+      <link>http://caoyu-yiyue.github.io/</link>
+    </image>
+    
+    <atom:link href="http://caoyu-yiyue.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>天気がいいから</description>
+    <pubDate>Tue, 29 Dec 2020 11:15:02 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>从这里开始</title>
+      <link>http://caoyu-yiyue.github.io/2020/12/29/%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B/</link>
+      <guid>http://caoyu-yiyue.github.io/2020/12/29/%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B/</guid>
+      <pubDate>Tue, 29 Dec 2020 08:36:07 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;这是为新开的博客写的第一篇文章。&lt;/p&gt;
+&lt;p&gt;既是写内容的第一篇，也是测试网站功能的第一篇。就像在今天的互联网上，内容和平台常常被迫捆绑在一起。&lt;/p&gt;
+&lt;p&gt;但博客必然是已经“落后”的平台了。人们或许没什么理由再去寻找博客来看，或许也不会有人期待着自己的博客被太多人看到</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>这是为新开的博客写的第一篇文章。</p><p>既是写内容的第一篇，也是测试网站功能的第一篇。就像在今天的互联网上，内容和平台常常被迫捆绑在一起。</p><p>但博客必然是已经“落后”的平台了。人们或许没什么理由再去寻找博客来看，或许也不会有人期待着自己的博客被太多人看到。但如果去想出一个能随意写作，不必担心写出的内容无法分享到其他“App”上，不必担心因为什么问题内容不见了，不必担心自己的文字成为其他平台的财产并用来向自己兜售什么……那它的确是一个合适的好地方。</p><p>如果博客是一个落伍的前互联网时代的名字，那大可以不叫它这个名字。总之这是一个可以放入自己文章的自建网站，一个我现在还算可以随意掌握上面所有内容的平台，仅此而已。当然，谁说旧的东西不会比新的好呢？</p><p>这里到底会写些什么呢？在我开始写这一篇内容的时候，除了基本的网站框架，其他的一些内容都还没有准备好。我很确定，这里不会单独分享我的生活琐事，也不会单独写些无聊的编程技巧，更不会只有些突然冒出的所思所感，甚至更新频率也不会保证。但在其他这些之前，不如先开始写作。所以，不会有所谓的“发刊词”一类的东西，但一样会有一个这样的模糊的开始。不如说我觉得这是一个更明确和更像是生活本身的状态。</p><p>创作是创作者心中不断涌出的“不得不说”。在因为担心发言安全而停用社交媒体的日子里，这样的感受越来越强烈。所以，我想有一个地方，写一些我不想写在别处但想写给除我之外人看的东西。</p><p>唯一确定的主页标题——「そして、次の曲が始まるのです」（然后，下一曲即将奏响）——来自京都动画的「響け！ユーフォニアム」。无论剧情如何，作为旁白的久美子在集末说出这句话时，都让人觉得对下一次的故事充满希望。所以，如果有什么能够在这里期待的话——</p><blockquote><p>そして、次の曲が始まるのです。</p></blockquote>]]></content:encoded>
+      
+      
+      <category domain="http://caoyu-yiyue.github.io/categories/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      
+      <category domain="http://caoyu-yiyue.github.io/tags/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      
+      <comments>http://caoyu-yiyue.github.io/2020/12/29/%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
