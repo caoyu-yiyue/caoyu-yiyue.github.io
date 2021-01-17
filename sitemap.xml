@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://caoyu-yiyue.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-01-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://caoyu-yiyue.github.io/tags/index.html</loc>
+    
+    <lastmod>2021-01-17</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://caoyu-yiyue.github.io/2020/12/29/%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B/</loc>
     
     <lastmod>2021-01-17</lastmod>
@@ -36,20 +50,6 @@
     
   </url>
   
-  <url>
-    <loc>http://caoyu-yiyue.github.io/categories/index.html</loc>
-    
-    <lastmod>2020-12-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://caoyu-yiyue.github.io/tags/index.html</loc>
-    
-    <lastmod>2020-12-27</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://caoyu-yiyue.github.io/</loc>
@@ -58,13 +58,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://caoyu-yiyue.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2021-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://caoyu-yiyue.github.io/tags/UP-%E4%B8%BB/</loc>
@@ -94,17 +87,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://caoyu-yiyue.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2021-01-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
-    <loc>http://caoyu-yiyue.github.io/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>http://caoyu-yiyue.github.io/categories/%E8%80%83%E3%81%88/</loc>
     <lastmod>2021-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://caoyu-yiyue.github.io/categories/%E8%80%83%E3%81%88/</loc>
+    <loc>http://caoyu-yiyue.github.io/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2021-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
