@@ -39,8 +39,8 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-  <meta name="google-site-verification" content="JU6QrKPYduQ-7G2MbX269tXjR9K2ekkRwLnn278BFAo" />
-  <!-- <meta name="baidu-site-verification" content="PpzM9WxOJU" /> -->
+  <meta name="google-site-verification" content="lxDfCplOZbIzjhG34NuQBgu2gdyRlAtMB4utP5AgEBc" />
+  <meta name="baidu-site-verification" content="PpzM9WxOJU" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="夢は現実の続き 現実は夢の終わり" />
@@ -130,8 +130,7 @@
     Tags - CY | そして、次の曲が始まるのです
     
   </title>
-<meta name="generator" content="Hexo 4.2.1"><link rel="alternate" href="feed.xml" title="そして、次の曲が始まるのです" type="application/rss+xml">
-</head>
+<meta name="generator" content="Hexo 4.2.1"></head>
 
 
 <!-- hack iOS CSS :active style -->
@@ -187,13 +186,6 @@
 
           
           <li>
-            <a href="/archive/">Archives</a>
-          </li>
-          
-          
-
-          
-          <li>
             <a href="/about/">About</a>
           </li>
           
@@ -201,7 +193,7 @@
 
           
           <li>
-            <a href="/tags/">Tags</a>
+            <a href="/archive/">Archives</a>
           </li>
           
           
@@ -209,6 +201,13 @@
           
           <li>
             <a href="/categories/">Categories</a>
+          </li>
+          
+          
+
+          
+          <li>
+            <a href="/tags/">Tags</a>
           </li>
           
           
@@ -338,6 +337,8 @@
       <!-- 标签云 -->
       <div id='tag_cloud' class="tags">
         
+        <a href="#写作计划" title="写作计划" rel="1">写作计划</a>
+        
         <a href="#UP 主" title="UP 主" rel="1">UP 主</a>
         
         <a href="#视频" title="视频" rel="1">视频</a>
@@ -348,13 +349,37 @@
         
         <a href="#日常" title="日常" rel="1">日常</a>
         
-        <a href="#写作计划" title="写作计划" rel="1">写作计划</a>
-        
         <a href="#直播" title="直播" rel="1">直播</a>
         
       </div>
 
       <!-- 标签列表 -->
+      
+      <div class="one-tag-list">
+        <span class="fa fa-tag listing-seperator" id="写作计划">
+          <span class="tag-text">写作计划</span>
+        </span>
+        
+        <!-- <li class="listing-item">
+                  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                  </li> -->
+        <div class="post-preview">
+          <a href="/2021/02/04/近期更新计划/">
+            <h2 class="post-title">
+              近期的写作计划
+            </h2>
+            
+            <h3 class="post-subtitle">
+              最近の執筆計画
+            </h3>
+            
+          </a>
+          <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
+        </div>
+        <hr>
+        
+      </div>
       
       <div class="one-tag-list">
         <span class="fa fa-tag listing-seperator" id="UP 主">
@@ -506,32 +531,6 @@
       </div>
       
       <div class="one-tag-list">
-        <span class="fa fa-tag listing-seperator" id="写作计划">
-          <span class="tag-text">写作计划</span>
-        </span>
-        
-        <!-- <li class="listing-item">
-                  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-                  </li> -->
-        <div class="post-preview">
-          <a href="/2021/02/04/近期更新计划/">
-            <h2 class="post-title">
-              近期的写作计划
-            </h2>
-            
-            <h3 class="post-subtitle">
-              最近の執筆計画
-            </h3>
-            
-          </a>
-          <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
-        </div>
-        <hr>
-        
-      </div>
-      
-      <div class="one-tag-list">
         <span class="fa fa-tag listing-seperator" id="直播">
           <span class="tag-text">直播</span>
         </span>
@@ -636,7 +635,10 @@
 <script type="text/javascript" async="true" src="/js/totop.js?v=1.0.0"></script>
 
 <!-- Busuanzi JavaScript -->
-<script type="text/javascript" async="true" src="/js/busuanzi.pure.mini.js"></script>
+
+  <!-- <script type="text/javascript" async="true" src="/js/busuanzi.pure.mini.js"></script> -->
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
 
 
   <!-- Scroll start -->
