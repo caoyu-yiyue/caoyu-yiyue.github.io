@@ -187,20 +187,6 @@
 
           
           <li>
-            <a href="/categories/">Categories</a>
-          </li>
-          
-          
-
-          
-          <li>
-            <a href="/about/">About</a>
-          </li>
-          
-          
-
-          
-          <li>
             <a href="/archive/">Archives</a>
           </li>
           
@@ -208,7 +194,21 @@
 
           
           <li>
+            <a href="/categories/">Categories</a>
+          </li>
+          
+          
+
+          
+          <li>
             <a href="/tags/">Tags</a>
+          </li>
+          
+          
+
+          
+          <li>
+            <a href="/about/">About</a>
           </li>
           
           
@@ -455,8 +455,8 @@
 
 <div id="gitalk-container"></div>
 
-<!-- <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.js"></script> -->
-<script src="/js/comment/gitalk.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.js"></script>
+<!-- <script src="/js/comment/gitalk.js"></script> -->
 
 <script>
   var gitalk = new Gitalk({
@@ -467,10 +467,11 @@
     admin: 'caoyu-yiyue',
     id: 'Tue Dec 29 2020 16:36:07 GMT+0800', // Ensure uniqueness and length less than 50
     distractionFreeMode: false, // Facebook-like distraction free mode
-    perPage: 10 ,
+    perPage: '10',
     pagerDirection: 'last',
-    createIssueManually: false ,
-    language: 'zh-CN'
+    createIssueManually: 'false',
+    language: 'zh-CN',
+    proxy: 'https://cors_anywhere.caoyu-yiyue.workers.dev/https://github.com/login/oauth/access_token'
   });
   gitalk.render('gitalk-container');
 

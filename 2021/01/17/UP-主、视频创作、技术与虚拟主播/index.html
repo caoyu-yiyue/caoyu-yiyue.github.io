@@ -187,20 +187,6 @@
 
           
           <li>
-            <a href="/categories/">Categories</a>
-          </li>
-          
-          
-
-          
-          <li>
-            <a href="/about/">About</a>
-          </li>
-          
-          
-
-          
-          <li>
             <a href="/archive/">Archives</a>
           </li>
           
@@ -208,7 +194,21 @@
 
           
           <li>
+            <a href="/categories/">Categories</a>
+          </li>
+          
+          
+
+          
+          <li>
             <a href="/tags/">Tags</a>
+          </li>
+          
+          
+
+          
+          <li>
+            <a href="/about/">About</a>
           </li>
           
           
@@ -290,13 +290,13 @@
           <div class="post-heading">
             <div class="tags">
               
-              <a class="tag" href="/tags/#VTuber" title="VTuber">VTuber</a>
-              
               <a class="tag" href="/tags/#UP 主" title="UP 主">UP 主</a>
               
               <a class="tag" href="/tags/#视频" title="视频">视频</a>
               
               <a class="tag" href="/tags/#技术" title="技术">技术</a>
+              
+              <a class="tag" href="/tags/#VTuber" title="VTuber">VTuber</a>
               
             </div>
             <h1>UP 主、视频创作、技术与虚拟主播</h1>
@@ -497,8 +497,8 @@
 
 <div id="gitalk-container"></div>
 
-<!-- <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.js"></script> -->
-<script src="/js/comment/gitalk.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.js"></script>
+<!-- <script src="/js/comment/gitalk.js"></script> -->
 
 <script>
   var gitalk = new Gitalk({
@@ -509,10 +509,11 @@
     admin: 'caoyu-yiyue',
     id: 'Sun Jan 17 2021 17:51:54 GMT+0800', // Ensure uniqueness and length less than 50
     distractionFreeMode: false, // Facebook-like distraction free mode
-    perPage: 10 ,
+    perPage: '10',
     pagerDirection: 'last',
-    createIssueManually: false ,
-    language: 'zh-CN'
+    createIssueManually: 'false',
+    language: 'zh-CN',
+    proxy: 'https://cors_anywhere.caoyu-yiyue.workers.dev/https://github.com/login/oauth/access_token'
   });
   gitalk.render('gitalk-container');
 
@@ -583,13 +584,13 @@
           </h5>
           <div class="tags">
             
-            <a class="tag" href="/tags/#VTuber" title="VTuber">VTuber</a>
-            
             <a class="tag" href="/tags/#UP 主" title="UP 主">UP 主</a>
             
             <a class="tag" href="/tags/#视频" title="视频">视频</a>
             
             <a class="tag" href="/tags/#技术" title="技术">技术</a>
+            
+            <a class="tag" href="/tags/#VTuber" title="VTuber">VTuber</a>
             
           </div>
         </section>
