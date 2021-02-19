@@ -187,14 +187,14 @@
 
           
           <li>
-            <a href="/categories/">Categories</a>
+            <a href="/archive/">Archives</a>
           </li>
           
           
 
           
           <li>
-            <a href="/archive/">Archives</a>
+            <a href="/categories/">Categories</a>
           </li>
           
           
@@ -501,8 +501,9 @@
 
 <div id="gitalk-container"></div>
 
-<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.js"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.js"></script> -->
 <!-- <script src="/js/comment/gitalk.js"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 
 <script>
   var gitalk = new Gitalk({
@@ -517,7 +518,7 @@
     pagerDirection: 'last',
     createIssueManually: 'false',
     language: 'zh-CN',
-    proxy: 'https://cors_anywhere.caoyu-yiyue.workers.dev/?https://github.com/login/oauth/access_token'
+    proxy: 'https://cors_anywhere.caoyu-yiyue.workers.dev/https://github.com/login/oauth/access_token'
   });
   gitalk.render('gitalk-container');
 
