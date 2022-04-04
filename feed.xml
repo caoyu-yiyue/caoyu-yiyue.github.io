@@ -51,37 +51,6 @@
     </item>
     
     <item>
-      <title>数据科学的保守主义倾向</title>
-      <link>http://caoyu-yiyue.github.io/2021/06/20/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E7%9A%84%E4%BF%9D%E5%AE%88%E4%B8%BB%E4%B9%89%E5%80%BE%E5%90%91/</link>
-      <guid>http://caoyu-yiyue.github.io/2021/06/20/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E7%9A%84%E4%BF%9D%E5%AE%88%E4%B8%BB%E4%B9%89%E5%80%BE%E5%90%91/</guid>
-      <pubDate>Sun, 20 Jun 2021 06:25:39 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;数据科学的保守主义倾向——起这个题目多多少少有些标题党的意思。所以首先，需要阐明两个名词的范围：“数据科学”指目前常用的主流数据科学，包括其算法、逻辑、使用方式，一言以蔽之，是使用过去的数据预测未来的数据科学一小支，而非学术研究中可能正在突破的泛化智能，或许叫它推荐算法或猜</description>
-          
-        
-      
-      
-      
-      <content:encoded><![CDATA[<p>数据科学的保守主义倾向——起这个题目多多少少有些标题党的意思。所以首先，需要阐明两个名词的范围：“数据科学”指目前常用的主流数据科学，包括其算法、逻辑、使用方式，一言以蔽之，是使用过去的数据预测未来的数据科学一小支，而非学术研究中可能正在突破的泛化智能，或许叫它推荐算法或猜你喜欢更合适。“保守主义”，比较稳妥的范围在于其字面意思，但我也隐约能够感觉到其在政治场域中常用的“保守主义”相同的含义。它同样是泛化的、指保守本身的意思，而非其他。</p><p>在写下这个标题后，它便自有毋须多言即不言自明的意思，但仍要补充一点缘由。所有基于数据收集并分析给出推荐的算法，要么假设让你更像过去的你，要么假设你更像他们认为的和你相似的一群人。前者拉着你在过去的位置上止步不前，后者让你成为最类似的大多数的一分子，本质上依然让你很难跳出同样的圈子。换一个已经流行的说法，便是制造信息茧房。他让个人接触的声音更加割裂、视野更狭窄、交流更困难，更进一步地，让先锋的、进步主义的艺术或声音难以被看见、被听见、被发现。如果我们假定社会的形态是不断发展的，大多数人会在大多数时候处在新坐标的末尾，力求拖拽着发展向前的声音会在推荐算法的拉扯下遇到越来越多的阻力。</p><p>推荐算法的另一种隐含的方法论是“多数至上”，这和为你推荐大多数人的偏好差不多。网红产品和流量明星，都带着</p>]]></content:encoded>
-      
-      
-      <category domain="http://caoyu-yiyue.github.io/categories/%E8%80%83%E3%81%88/">考え</category>
-      
-      
-      <category domain="http://caoyu-yiyue.github.io/tags/%E6%8A%80%E6%9C%AF/">技术</category>
-      
-      <category domain="http://caoyu-yiyue.github.io/tags/%E7%A4%BE%E4%BC%9A/">社会</category>
-      
-      
-      <comments>http://caoyu-yiyue.github.io/2021/06/20/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E7%9A%84%E4%BF%9D%E5%AE%88%E4%B8%BB%E4%B9%89%E5%80%BE%E5%90%91/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>《动森》一周年：创造的世界和世界的创造</title>
       <link>http://caoyu-yiyue.github.io/2021/03/18/%E5%8A%A8%E6%A3%AE%E4%B8%80%E5%91%A8%E5%B9%B4/</link>
       <guid>http://caoyu-yiyue.github.io/2021/03/18/%E5%8A%A8%E6%A3%AE%E4%B8%80%E5%91%A8%E5%B9%B4/</guid>
@@ -195,11 +164,11 @@
       <category domain="http://caoyu-yiyue.github.io/categories/%E8%80%83%E3%81%88/">考え</category>
       
       
+      <category domain="http://caoyu-yiyue.github.io/tags/%E6%8A%80%E6%9C%AF/">技术</category>
+      
       <category domain="http://caoyu-yiyue.github.io/tags/UP-%E4%B8%BB/">UP 主</category>
       
       <category domain="http://caoyu-yiyue.github.io/tags/%E8%A7%86%E9%A2%91/">视频</category>
-      
-      <category domain="http://caoyu-yiyue.github.io/tags/%E6%8A%80%E6%9C%AF/">技术</category>
       
       <category domain="http://caoyu-yiyue.github.io/tags/VTuber/">VTuber</category>
       
