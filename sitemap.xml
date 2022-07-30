@@ -95,6 +95,27 @@
 
   
   <url>
+    <loc>http://caoyu-yiyue.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2022-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://caoyu-yiyue.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2022-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://caoyu-yiyue.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2022-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://caoyu-yiyue.github.io/tags/UP-%E4%B8%BB/</loc>
     <lastmod>2022-07-30</lastmod>
     <changefreq>daily</changefreq>
@@ -109,28 +130,7 @@
   </url>
   
   <url>
-    <loc>http://caoyu-yiyue.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-07-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://caoyu-yiyue.github.io/tags/VTuber/</loc>
-    <lastmod>2022-07-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://caoyu-yiyue.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2022-07-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://caoyu-yiyue.github.io/tags/%E7%9B%B4%E6%92%AD/</loc>
     <lastmod>2022-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -144,7 +144,7 @@
   </url>
   
   <url>
-    <loc>http://caoyu-yiyue.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>http://caoyu-yiyue.github.io/tags/%E7%9B%B4%E6%92%AD/</loc>
     <lastmod>2022-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
