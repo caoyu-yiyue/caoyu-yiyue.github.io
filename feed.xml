@@ -15,8 +15,35 @@
     <atom:link href="http://caoyu-yiyue.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>夢は現実の続き 現実は夢の終わり</description>
-    <pubDate>Tue, 02 Aug 2022 16:20:06 GMT</pubDate>
+    <pubDate>Wed, 09 Nov 2022 08:09:15 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何把互联网文章保存到本地</title>
+      <link>http://caoyu-yiyue.github.io/2022/11/09/save-locally/</link>
+      <guid>http://caoyu-yiyue.github.io/2022/11/09/save-locally/</guid>
+      <pubDate>Wed, 09 Nov 2022 08:09:15 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;各位老朋友们最近应该遇到了一样的烦恼，发在某编平台上的历史文章突遭删除，徒留红色惊叹号以示惊醒。这些年见过被删除的文章太多，以至于自己对着丢失的链接变得麻木没有什么感觉了。不过看到有群里的朋友出来质疑，还是带着钦佩和感叹，果然还是有人觉得不对呢，自己这些年真是越来越犬儒了。</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>各位老朋友们最近应该遇到了一样的烦恼，发在某编平台上的历史文章突遭删除，徒留红色惊叹号以示惊醒。这些年见过被删除的文章太多，以至于自己对着丢失的链接变得麻木没有什么感觉了。不过看到有群里的朋友出来质疑，还是带着钦佩和感叹，果然还是有人觉得不对呢，自己这些年真是越来越犬儒了。事情发生在记者节当天，就显得更为吊诡。执行者或有的无奈我并非不能理解，理由各位接受与否见仁见智。各位应该知道报刊媒体的过刊在图书馆是有一席之地的，毕竟今天的新闻就是明天的历史。本着还是不要犬儒的想法，给各位提供一些保存互联网文章的小方法，还可以用来看家护院。</p><p>暂不说东西消失是因为什么，但互联网并不是一个万无一失的地方。简单一点的话，可能存储服务器突然不再续费，可能网站突然倒闭、服务突然关停，可能被不知何方神圣的黑客突然骇入然后遭到删除……把时间放得再长远一点，存储介质的进化速度可能并不支持它作为保存历史资料的有力载体。如果 80 年代的博物馆留下了保存珍贵资料的 3.5 寸软盘，今天拿到它的人大概要对着它绉绉眉头了。同样的问题据说来自故宫博物院，试想一下文物录像可能一代人才有机会录制一次——多半在修复它的时候——下次需要的时候它可能是 VCD 或者录像带。（<a href="https://bowuzhi.fm/episodes/206">206. UP主极限挑战：在故宫一周拍五期视频 - 博物志</a>）预期保存在互联网甚至自己手里的东西有一天再也打不开，是相当合理的想法。<a href="https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/">The Internet Is Rotting</a>（这篇文章在我这里的打开速度奇慢，但是终究还是能打开。不禁让人怀疑是不是某种 Rotting 的隐喻。）</p><p>各位都应该体会过创作就是自己身上带着阵痛诞下的一块血肉。如果你也很珍惜自己的某一部分的话，那应该把最完整的版本保存在自己手里是不用再赘述原因的事实。不管是微博、朋友圈还是公众号，存在别人服务器上的东西就终归不是自己的，或许各位在实际生活中也多少有所体验。如果之前没有在意过，那这次之后的教训和遗憾应该足以提醒我们了。而对于我们喜爱的以资未来重读的文章，自然也有保存下来万无一失的理由。巧合的是某几位中文自动化领域的前辈们最近更新了一系列保存在线文章的方法，于是在最后整理给大家。希望各位未来也少留遗憾。</p><ol><li><a href="https://utgd.net/article/8492">一种将线上内容精简格式后保存到本地的方法 - #Untag</a>：需要一台 Mac 电脑和 Safari 浏览器。如果喜欢简洁的排版就可以选择这种方法。</li><li><a href="https://utgd.net/article/8609">剪藏网页到本地的自动化思路（以 Keyboard Maestro 为例） - #Untag</a>：上面一篇文章的自动化方法，用到 Keyboard Maestro（一款自动化软件）。</li><li><a href="https://utgd.net/article/8668">剪藏网页到本地的轻量化思路 - #Untag</a>：只有用 iOS 的网页长截图就能搞定的简单方法。我们都知道设计和排版也是不容置疑的珍贵的创作，那你可以用它尽量保留页面全貌。</li><li><a href="https://utgd.net/article/8929">如何保存 Twitter 上的长推文到本地 - #Untag</a>：同样用 iOS 设备就能搞定的简单方法，遇到值得收藏的好 Thread 就可以顺手保存了。</li></ol><p>最后如果有现在负责了删除和保留的成员们看到了这篇文章，应该说这件事也并不怪你们，所以请不必有什么自责。当初有幸和另几位朋友接手和重整过平台，对于它也不算没有感情。但随着之后的名字一再更迭，就逐渐明白那东西其实并不是自己的。“守护好 xx”之类的家族制话语也不该压在大家身上，但守护好自己的一亩三分地还是值得的罢（笑）。</p><p>最后的最后，各位好久不见，和大家远远地打个招呼，祝好～！</p>]]></content:encoded>
+      
+      
+      <category domain="http://caoyu-yiyue.github.io/categories/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      
+      
+      <comments>http://caoyu-yiyue.github.io/2022/11/09/save-locally/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>如何打碎正义</title>
