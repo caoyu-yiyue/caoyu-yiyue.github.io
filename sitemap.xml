@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://caoyu-yiyue.github.io/2023/07/08/The-legend-of-Zelda-the-story-of-pricess-and-knight-in-this-era/</loc>
+    
+    <lastmod>2023-07-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://caoyu-yiyue.github.io/2023/06/22/elevator-button-design/</loc>
     
     <lastmod>2023-06-23</lastmod>
@@ -88,7 +95,7 @@
 
   <url>
     <loc>http://caoyu-yiyue.github.io/</loc>
-    <lastmod>2023-06-23</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -96,49 +103,49 @@
   
   <url>
     <loc>http://caoyu-yiyue.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2023-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://caoyu-yiyue.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2023-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://caoyu-yiyue.github.io/tags/UP-%E4%B8%BB/</loc>
-    <lastmod>2023-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://caoyu-yiyue.github.io/tags/%E8%A7%86%E9%A2%91/</loc>
-    <lastmod>2023-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://caoyu-yiyue.github.io/tags/VTuber/</loc>
-    <lastmod>2023-06-23</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://caoyu-yiyue.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2023-06-23</lastmod>
+    <lastmod>2023-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://caoyu-yiyue.github.io/tags/UP-%E4%B8%BB/</loc>
+    <lastmod>2023-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://caoyu-yiyue.github.io/tags/%E8%A7%86%E9%A2%91/</loc>
+    <lastmod>2023-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://caoyu-yiyue.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2023-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://caoyu-yiyue.github.io/tags/VTuber/</loc>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://caoyu-yiyue.github.io/tags/%E7%9B%B4%E6%92%AD/</loc>
-    <lastmod>2023-06-23</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -147,14 +154,14 @@
   
   <url>
     <loc>http://caoyu-yiyue.github.io/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2023-06-23</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://caoyu-yiyue.github.io/categories/%E8%80%83%E3%81%88/</loc>
-    <lastmod>2023-06-23</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
