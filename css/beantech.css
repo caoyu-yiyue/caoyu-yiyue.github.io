@@ -113,7 +113,7 @@ a img:focus {
 }
 
 article {
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 blockquote {
