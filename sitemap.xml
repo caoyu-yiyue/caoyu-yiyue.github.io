@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://caoyu-yiyue.github.io/2025/08/05/CITY-The-Animation-E5-How-the-City-Becomes-the-Protagonist/</loc>
+    
+    <lastmod>2025-09-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://caoyu-yiyue.github.io/2025/09/22/So-so-fu-itsu/</loc>
     
     <lastmod>2025-09-22</lastmod>
@@ -47,13 +54,6 @@
     <loc>http://caoyu-yiyue.github.io/2025/08/07/way-to-Evil/</loc>
     
     <lastmod>2025-08-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://caoyu-yiyue.github.io/2025/08/05/CITY-The-Animation-E5-How-the-City-Becomes-the-Protagonist/</loc>
-    
-    <lastmod>2025-08-05</lastmod>
     
   </url>
   
@@ -476,6 +476,13 @@
   
   <url>
     <loc>http://caoyu-yiyue.github.io/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://caoyu-yiyue.github.io/categories/%E4%B9%A6%E5%BD%B1%E9%9F%B3/</loc>
     <lastmod>2025-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
